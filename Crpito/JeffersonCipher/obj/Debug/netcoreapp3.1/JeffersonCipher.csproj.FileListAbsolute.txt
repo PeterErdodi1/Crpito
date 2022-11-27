@@ -1,0 +1,14 @@
+D:\Zenek\criptografie-master\criptografie-master\JeffersonCipher\bin\Debug\netcoreapp3.1\JeffersonCipher.exe
+D:\Zenek\criptografie-master\criptografie-master\JeffersonCipher\bin\Debug\netcoreapp3.1\JeffersonCipher.deps.json
+D:\Zenek\criptografie-master\criptografie-master\JeffersonCipher\bin\Debug\netcoreapp3.1\JeffersonCipher.runtimeconfig.json
+D:\Zenek\criptografie-master\criptografie-master\JeffersonCipher\bin\Debug\netcoreapp3.1\JeffersonCipher.runtimeconfig.dev.json
+D:\Zenek\criptografie-master\criptografie-master\JeffersonCipher\bin\Debug\netcoreapp3.1\JeffersonCipher.dll
+D:\Zenek\criptografie-master\criptografie-master\JeffersonCipher\bin\Debug\netcoreapp3.1\JeffersonCipher.pdb
+D:\Zenek\criptografie-master\criptografie-master\JeffersonCipher\obj\Debug\netcoreapp3.1\JeffersonCipher.csproj.AssemblyReference.cache
+D:\Zenek\criptografie-master\criptografie-master\JeffersonCipher\obj\Debug\netcoreapp3.1\JeffersonCipher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zenek\criptografie-master\criptografie-master\JeffersonCipher\obj\Debug\netcoreapp3.1\JeffersonCipher.AssemblyInfoInputs.cache
+D:\Zenek\criptografie-master\criptografie-master\JeffersonCipher\obj\Debug\netcoreapp3.1\JeffersonCipher.AssemblyInfo.cs
+D:\Zenek\criptografie-master\criptografie-master\JeffersonCipher\obj\Debug\netcoreapp3.1\JeffersonCipher.csproj.CoreCompileInputs.cache
+D:\Zenek\criptografie-master\criptografie-master\JeffersonCipher\obj\Debug\netcoreapp3.1\JeffersonCipher.dll
+D:\Zenek\criptografie-master\criptografie-master\JeffersonCipher\obj\Debug\netcoreapp3.1\JeffersonCipher.pdb
+D:\Zenek\criptografie-master\criptografie-master\JeffersonCipher\obj\Debug\netcoreapp3.1\JeffersonCipher.genruntimeconfig.cache

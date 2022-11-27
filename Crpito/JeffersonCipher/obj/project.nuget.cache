@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MXALx7WKW+FU/cIXhQTGzAmZyv/EBRNc0V3OaaK1rLsOhGgK3zeZfhQBjv+kg7a/IORHNYnyPw9CzInzE7Wk3g==",
+  "success": true,
+  "projectFilePath": "D:\\Zenek\\criptografie-master\\criptografie-master\\JeffersonCipher\\JeffersonCipher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\40771\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
